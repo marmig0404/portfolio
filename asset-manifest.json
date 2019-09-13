@@ -1,14 +1,14 @@
 {
-  "main.css": "/marmig0404/marmig0404.github.io/static/css/main.27a21a16.chunk.css",
-  "main.js": "/marmig0404/marmig0404.github.io/static/js/main.9375c956.chunk.js",
-  "main.js.map": "/marmig0404/marmig0404.github.io/static/js/main.9375c956.chunk.js.map",
-  "runtime~main.js": "/marmig0404/marmig0404.github.io/static/js/runtime~main.719bf572.js",
-  "runtime~main.js.map": "/marmig0404/marmig0404.github.io/static/js/runtime~main.719bf572.js.map",
-  "static/js/2.7684408b.chunk.js": "/marmig0404/marmig0404.github.io/static/js/2.7684408b.chunk.js",
-  "static/js/2.7684408b.chunk.js.map": "/marmig0404/marmig0404.github.io/static/js/2.7684408b.chunk.js.map",
-  "index.html": "/marmig0404/marmig0404.github.io/index.html",
-  "precache-manifest.41678c7c3f5fb681f695005d441a6ec3.js": "/marmig0404/marmig0404.github.io/precache-manifest.41678c7c3f5fb681f695005d441a6ec3.js",
-  "service-worker.js": "/marmig0404/marmig0404.github.io/service-worker.js",
-  "static/css/main.27a21a16.chunk.css.map": "/marmig0404/marmig0404.github.io/static/css/main.27a21a16.chunk.css.map",
-  "static/media/logo.svg": "/marmig0404/marmig0404.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/portfolio/static/css/main.ae358d00.chunk.css",
+  "main.js": "/portfolio/static/js/main.ba2d6d1d.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.ba2d6d1d.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.53ebc025.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.53ebc025.js.map",
+  "static/js/2.9f8f6cd9.chunk.js": "/portfolio/static/js/2.9f8f6cd9.chunk.js",
+  "static/js/2.9f8f6cd9.chunk.js.map": "/portfolio/static/js/2.9f8f6cd9.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.9dfdf50edb5bde74bac999c30b511078.js": "/portfolio/precache-manifest.9dfdf50edb5bde74bac999c30b511078.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.ae358d00.chunk.css.map": "/portfolio/static/css/main.ae358d00.chunk.css.map",
+  "static/media/logo.svg": "/portfolio/static/media/logo.ee7cd8ed.svg"
 }
