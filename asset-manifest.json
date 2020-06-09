@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2e3f6eb3.chunk.css",
-    "main.js": "/portfolio/static/js/main.23366e25.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.23366e25.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
-    "static/js/2.293d419b.chunk.js": "/portfolio/static/js/2.293d419b.chunk.js",
-    "static/js/2.293d419b.chunk.js.map": "/portfolio/static/js/2.293d419b.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.a5849b9363f6b8290cd38700f4c73aaf.js": "/portfolio/precache-manifest.a5849b9363f6b8290cd38700f4c73aaf.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.2e3f6eb3.chunk.css.map": "/portfolio/static/css/main.2e3f6eb3.chunk.css.map",
-    "static/js/2.293d419b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.293d419b.chunk.js.LICENSE.txt",
-    "static/media/DDCLogo1.png": "/portfolio/static/media/DDCLogo1.754bec92.png",
-    "static/media/PortfolioLogo.svg": "/portfolio/static/media/PortfolioLogo.a79b5359.svg"
+    "main.css": "/static/css/main.2e3f6eb3.chunk.css",
+    "main.js": "/static/js/main.61d4c2ec.chunk.js",
+    "main.js.map": "/static/js/main.61d4c2ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e4b9196.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e4b9196.js.map",
+    "static/js/2.293d419b.chunk.js": "/static/js/2.293d419b.chunk.js",
+    "static/js/2.293d419b.chunk.js.map": "/static/js/2.293d419b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a7f94b9b2d03c16c6db6b4620f0fcd2b.js": "/precache-manifest.a7f94b9b2d03c16c6db6b4620f0fcd2b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2e3f6eb3.chunk.css.map": "/static/css/main.2e3f6eb3.chunk.css.map",
+    "static/js/2.293d419b.chunk.js.LICENSE.txt": "/static/js/2.293d419b.chunk.js.LICENSE.txt",
+    "static/media/DDCLogo1.png": "/static/media/DDCLogo1.754bec92.png",
+    "static/media/PortfolioLogo.svg": "/static/media/PortfolioLogo.a79b5359.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4f2abbf.js",
+    "static/js/runtime-main.7e4b9196.js",
     "static/js/2.293d419b.chunk.js",
     "static/css/main.2e3f6eb3.chunk.css",
-    "static/js/main.23366e25.chunk.js"
+    "static/js/main.61d4c2ec.chunk.js"
   ]
 }
