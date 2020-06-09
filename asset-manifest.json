@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/page/static/css/main.2e3f6eb3.chunk.css",
-    "main.js": "/page/static/js/main.6f19890a.chunk.js",
-    "main.js.map": "/page/static/js/main.6f19890a.chunk.js.map",
-    "runtime-main.js": "/page/static/js/runtime-main.f2a141f0.js",
-    "runtime-main.js.map": "/page/static/js/runtime-main.f2a141f0.js.map",
-    "static/js/2.293d419b.chunk.js": "/page/static/js/2.293d419b.chunk.js",
-    "static/js/2.293d419b.chunk.js.map": "/page/static/js/2.293d419b.chunk.js.map",
-    "index.html": "/page/index.html",
-    "precache-manifest.67246fd3aeece3790bd60006ff126a4a.js": "/page/precache-manifest.67246fd3aeece3790bd60006ff126a4a.js",
-    "service-worker.js": "/page/service-worker.js",
-    "static/css/main.2e3f6eb3.chunk.css.map": "/page/static/css/main.2e3f6eb3.chunk.css.map",
-    "static/js/2.293d419b.chunk.js.LICENSE.txt": "/page/static/js/2.293d419b.chunk.js.LICENSE.txt",
-    "static/media/DDCLogo1.png": "/page/static/media/DDCLogo1.754bec92.png",
-    "static/media/PortfolioLogo.svg": "/page/static/media/PortfolioLogo.a79b5359.svg"
+    "main.css": "/portfolio/static/css/main.2e3f6eb3.chunk.css",
+    "main.js": "/portfolio/static/js/main.b45ba667.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b45ba667.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
+    "static/js/2.293d419b.chunk.js": "/portfolio/static/js/2.293d419b.chunk.js",
+    "static/js/2.293d419b.chunk.js.map": "/portfolio/static/js/2.293d419b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.8e60e1e9ef892903bd4b3f117e84bb75.js": "/portfolio/precache-manifest.8e60e1e9ef892903bd4b3f117e84bb75.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.2e3f6eb3.chunk.css.map": "/portfolio/static/css/main.2e3f6eb3.chunk.css.map",
+    "static/js/2.293d419b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.293d419b.chunk.js.LICENSE.txt",
+    "static/media/DDCLogo1.png": "/portfolio/static/media/DDCLogo1.754bec92.png",
+    "static/media/PortfolioLogo.svg": "/portfolio/static/media/PortfolioLogo.a79b5359.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2a141f0.js",
+    "static/js/runtime-main.f4f2abbf.js",
     "static/js/2.293d419b.chunk.js",
     "static/css/main.2e3f6eb3.chunk.css",
-    "static/js/main.6f19890a.chunk.js"
+    "static/js/main.b45ba667.chunk.js"
   ]
 }
